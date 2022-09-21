@@ -1,20 +1,11 @@
 # morse_decoder
 
-> This project is used as an introduction practice for Postgresql.
-
-
+> This project is used as an introduction practice for ruby.
 
 ## Getting Started
 
-This repository includes files with plain SQL that can be used to recreate a database:
+This repository includes files with plain ruby
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
-## Schema Diagram
-
-![Schema](schema.drawio.svg)
 
 ## Authors
 
@@ -28,6 +19,12 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - GitHub: [@githubhandle](https://github.com/karam084)
 - Twitter: [@twitterhandle](https://twitter.com/ElarabFouad)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/karam-fouad-179830214/)
+
+👤 **Ntihinduka Alpha**
+
+- GitHub: [@githubhandle](https://github.com/AlphaNtihinduka)
+- Twitter: [@twitterhandle](https://twitter.com/@alphantihinduka)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ntihinduka-alpha-81bb7b22a/)
 
 ## 🤝 Contributing
 

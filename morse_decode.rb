@@ -11,15 +11,15 @@ def decode_char(letter)
 end
 
 def decode_word(word)
-  w = ''
-  word.split.each { |n| w << decode_char(n) }
-  w
+  k = ''
+  word.split.each { |n| k << decode_char(n) }
+  k
 end
 
 def decode_text(text)
-  sentence = ''
-  text.split('   ').each { |n| sentence << "#{decode_word(n)} " }
-  sentence
+  phase = ''
+  text.split('   ').each { |n| phase << "#{decode_word(n)} " }
+  phase
 end
 puts decode_text '-- -.--   -. .- -- .'
 puts decode_text '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'

@@ -1,2 +1,9 @@
+# rubocop:disable Style/StringLiterals, Style/FrozenStringLiteralComment
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
 gem 'rubocop', '>= 1.0', '< 2.0'
-source 'https://rubygems.org'
+# gem "rails"
+
+# rubocop:enable Style/StringLiterals, Style/FrozenStringLiteralComment

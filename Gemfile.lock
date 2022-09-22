@@ -25,10 +25,10 @@ GEM
     unicode-display_width (2.3.0)
 
 PLATFORMS
-  ruby
+  x86_64-linux
 
 DEPENDENCIES
   rubocop (>= 1.0, < 2.0)
 
 BUNDLED WITH
-   1.16.3
+   2.3.22
